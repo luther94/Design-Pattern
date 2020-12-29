@@ -1,7 +1,6 @@
 package creationalPatterns.prototypePattern.code;
 
 import java.io.*;
-import java.util.Map;
 
 public class DeepClone implements Cloneable, Serializable {
     private User user = new User(12, "张三");

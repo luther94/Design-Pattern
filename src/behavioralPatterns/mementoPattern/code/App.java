@@ -1,6 +1,6 @@
 package behavioralPatterns.mementoPattern.code;
 
-import java.awt.Point;
+import java.awt.*;
 
 public class App {
     public static void main(String[] args) {
